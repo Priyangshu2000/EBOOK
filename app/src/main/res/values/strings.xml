@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EBOOK</string>
+    <string-array name="chap">
+        <item>Chapter 1:  </item>
+        <item>Chapter 2:  </item>
+        <item>Chapter 3:  </item>
+        <item>Chapter 4:  </item>
+        <item>Chapter 5:  </item>
+        <item>Chapter 6:  </item>
+        <item>Chapter 7:  </item>
+        <item>Chapter 8:  </item>
+        <item>Chapter 9:  </item>
+        <item>Chapter 10: </item>
+        <item>Chapter 11: </item>
+        <item>Chapter 12: </item>
+        <item>Chapter 13: </item>
+        <item>Chapter 14: </item>
+        <item>Chapter 15: </item>
+    </string-array>
+</resources>

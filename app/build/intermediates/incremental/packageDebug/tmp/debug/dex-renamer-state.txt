@@ -1,0 +1,7 @@
+#Tue Apr 12 14:40:09 IST 2022
+base.1=C\:\\Users\\priya\\AndroidStudioProjects\\PhysicsShortNotes2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\priya\\AndroidStudioProjects\\PhysicsShortNotes2\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
