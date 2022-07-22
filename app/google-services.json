@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584750674468",
+    "project_id": "ebook-6de74",
+    "storage_bucket": "ebook-6de74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584750674468:android:aad921909922f16ce71eb1",
+        "android_client_info": {
+          "package_name": "com.example.physicsshortnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584750674468-4bnbvaj0q2kj5obqmrotpcfn2pd44dh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALsDIBBdEbsqQxn8sCNG4TwO2w8mp_HkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584750674468-4bnbvaj0q2kj5obqmrotpcfn2pd44dh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

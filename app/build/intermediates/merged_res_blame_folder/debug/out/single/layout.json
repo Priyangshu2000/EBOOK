@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\priya\\AndroidStudioProjects\\PhysicsShortNotes2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\priya\\AndroidStudioProjects\\PhysicsShortNotes2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\priya\\AndroidStudioProjects\\PhysicsShortNotes2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_mainscreen.xml",
+        "source": "C:\\Users\\priya\\AndroidStudioProjects\\PhysicsShortNotes2\\app\\src\\main\\res\\layout\\activity_mainscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\priya\\AndroidStudioProjects\\PhysicsShortNotes2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_details.xml",
+        "source": "C:\\Users\\priya\\AndroidStudioProjects\\PhysicsShortNotes2\\app\\src\\main\\res\\layout\\activity_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\priya\\AndroidStudioProjects\\PhysicsShortNotes2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\singleimage.xml",
+        "source": "C:\\Users\\priya\\AndroidStudioProjects\\PhysicsShortNotes2\\app\\src\\main\\res\\layout\\singleimage.xml"
+    },
+    {
+        "merged": "C:\\Users\\priya\\AndroidStudioProjects\\PhysicsShortNotes2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_pdfview.xml",
+        "source": "C:\\Users\\priya\\AndroidStudioProjects\\PhysicsShortNotes2\\app\\src\\main\\res\\layout\\activity_pdfview.xml"
+    }
+]

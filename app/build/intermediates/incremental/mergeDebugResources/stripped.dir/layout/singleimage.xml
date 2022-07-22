@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:elevation="5dp"
+    android:backgroundTint="#F0FFFF"
+    app:cardCornerRadius="7dp"
+    android:layout_margin="7dp"
+    android:id="@+id/cardView">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+
+            android:layout_width="100dp"
+            android:layout_height="150dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_wb_sunny_black_24dp"
+            android:id="@+id/coverpic"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:text="Bookname"
+            android:fontFamily="@font/simonetta_black"
+            android:textStyle="bold"
+            android:paddingHorizontal="3dp"
+            android:id="@+id/Bookname"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:textSize="15sp"
+            android:paddingHorizontal="3dp"
+            android:text="Author name"
+            android:paddingBottom="2dp"
+            android:fontFamily="@font/simonetta"
+            android:id="@+id/authorname"/>
+    </LinearLayout>
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>
